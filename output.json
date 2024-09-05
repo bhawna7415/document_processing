@@ -1,0 +1,87 @@
+[
+  {
+    "title": "Machine Learning for Columnar High Energy Physics Analysis",
+    "authors": [
+      "Elliott Kauffman",
+      "Alexander Held",
+      "Oksana Shadura"
+    ],
+    "abstract": "Machine learning (ML) has become an integral component of high energy physics data analyses and is likely to continue to grow in prevalence. Physicists are incorporating ML into many aspects of analysis, from using boosted decision trees to classify particle jets to using unsupervised learning to search for physics beyond the Standard Model. Since ML methods have become so widespread in analysis and these analyses need to be scaled up for HL-LHC data, neatly integrating ML training and inference into scalable analysis workflows will improve the user experience of analysis in the HL-LHC era. We present the integration of ML training and inference into the IRIS-HEP Analysis Grand Challenge (AGC) pipeline to provide an example of how this integration can look like in a realistic analysis environment. We also utilize Open Data to ensure the project's reach to the broader community. Different approaches for performing ML inference at analysis facilities are investigated and compared, including performing inference through external servers. Since ML techniques are applied for many different types of tasks in physics analyses, we showcase options for ML integration that can be applied to various inference needs.",
+    "key_findings": "The labeling scheme for jets in the top quark reconstruction using boosted decision trees (BDT) allows for more accurate reconstruction and unlocks access to other observables. By knowing which jets originate from the W boson, it is possible to estimate the W mass and the angles between the different jets using their predicted labels.",
+    "references": [
+      {
+        "title": "Machine Learning in High Energy Physics Community White Paper",
+        "authors": "Albertsson, Kim et al.",
+        "year": 2019,
+        "link": "https://doi.org/10.48550/arXiv.1807.02876"
+      },
+      {
+        "title": "EPJWebConf.245,05023",
+        "authors": "J.Pivarski,P.Elmer,D.Lange",
+        "year": 2020
+      },
+      {
+        "title": "EPJWebConf.245,06012",
+        "authors": "N. Smith, L. Gray, M. Cremonesi, B. Jayatilaka, O. Gutsche, A. Hall, K. Pedro, M.Acosta,A.Melo,S.Belforteetal.",
+        "year": 2020
+      },
+      {
+        "title": "IRIS-HEP",
+        "authors": "InstituteforResearchandInnovationinSoftwareforHighEnergyPhysics (IRIS-HEP)",
+        "link": "https://iris-hep.org/"
+      },
+      {
+        "title": "PoS235",
+        "authors": "A.Held,O.Shadura",
+        "year": 2022
+      },
+      {
+        "title": "GettingStartedwithCMS2015OpenData",
+        "authors": "CMSDatapreservationandopenaccessgroup",
+        "link": "https://opendata.cern.ch/docs/cms-getting-started-2015(2022)"
+      },
+      {
+        "title": "Analysis Grand Challenge",
+        "authors": "E. Kauffman, A. Held, O. Shadura, E. Guiraud, M. Feickert, J. Chakraborty, M. Proffitt, A. Wightman, K. Choi, E. Chavez",
+        "year": null,
+        "link": "https://doi.org/10.5281/zenodo.7274936"
+      },
+      {
+        "title": "Analysis Grand Challenge",
+        "authors": "E. Kauffman, A. Held, O. Shadura",
+        "year": null
+      }
+    ]
+  },
+  {
+    "paper_title": "Right Dorsolateral Frontal Lobe N-Acetyl Aspartate and Myoinositol Concentration Estimation in Type 2 Diabetes with Magnetic Resonance Spectroscopy",
+    "authors": [
+      "Rajani SanthaKumaRi nagothu",
+      "Yogananda ReddY indla",
+      "aRchana RajagoPalan",
+      "Ravi vaRma"
+    ],
+    "abstract": "Qualified yoga teacher. Control group subjects are not on any specific exercise regimen. Both the group subjects are taking oral hypoglycaemic agents. HbA1c levels are measured using the Bio-Rad D-10\u2122 haemoglobin A1c program and Magnetic Resonance Spectroscopy (MRS) is used in assessing the metabolite concentrations.",
+    "key_findings": {
+      "HbA1c_levels_control_group": 7.7,
+      "HbA1c_levels_test_group": 6.02,
+      "NAA_concentrations_control_group_dorsolateral_frontal_lobe": 1.44,
+      "NAA_concentrations_test_group_dorsolateral_frontal_lobe": 1.54,
+      "mI_concentrations_control_group_dorsolateral_frontal_lobe": null,
+      "mI_concentrations_test_group_dorsolateral_frontal_lobe": null
+    },
+    "references": [
+      "Van der Graaf M, Janssen SWJ, van Asten JJ , Hermus ARMM, Sweep CGJ, Pikkemaat JA. Metabolic profile of the hippocampus of Zucker Diabetic Fatty rats assessed by in vivo 1H magnetic resonance spectroscopy. NMR Biomed. 2004;17:405\u201310.",
+      "Sahay BK. Role of yoga in diabetes. J Assoc Physicians India. 2007;55:121\u201326.",
+      "Shembekar AG, Kate SK. Yoga exercises in the management of diabetes mellitus. J Diabetic Assoc India. 1980;20:167\u201371.",
+      "Nagarathna R, Nagendra HR. Integrated approach of yoga therapy in the management of diabetes mellitus; published research studies. In: Proceedings of the Ninth Annual Conference of the IEEE Engineering in Medicine and Biology Conference. New York, USA: IEEE; 1987. pp. 1593\u201394.",
+      "Gupta SM. Modern medicine and yoga. J Intern Med India. 2001;4:155\u201356.",
+      "Malhotra V, Singh S, Tandon OP, Madhu SV, Prasad A, Sharma SB. Effect of Yoga asanas on nerve conduction in type 2 diabetes. India",
+      "Kaplan-Mayer G. Get moving with yoga. Diabetes Self Manag. 2003;20(4):28,31-3.",
+      "Manyam BV. Diabetes mellitus, Ayurveda, and yoga. Comment. J Altern Complement Med. 2004;10(2):223\u201325.",
+      "Khalasa SB. Yoga as a therapeutic intervention: a bibliometric analysis of published research studies. Indian J Physiol Pharmacol. 2004;48(3):269\u201385.",
+      "Nayak NN, Shankar K. Yoga: a therapeutic approach. Phys Med Rehabil Clin N Am. 2004;15:783\u201398.",
+      "Singh S, Malhotra V, Singh KP, Madhu SV, Tandon OP. Role of Yoga in modifying"
+    ]
+  }
+]
